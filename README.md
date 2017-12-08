@@ -94,5 +94,5 @@ git笔记，方便自己查看
 <p>如果把标签推送到远程 ，要删除远程标签 需要先用命令<code>git tag -d 标签名</code>删除标签</p>
 <p>然后使用命令<code>push 远程库名 :refs/tags/标签名</code> 进行删除</p>
 </div>
----------------------------------------------------------
-<div>推荐到(https://www.liaoxuefeng.com/"廖雪峰的官方网站")学习GIT教程</div>
+
+<div>推荐到<a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">廖雪峰的官方网站</a>学习GIT教程</div>
